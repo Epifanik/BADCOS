@@ -1,0 +1,19 @@
+c:\users\user\documents\visual studio 2015\Projects\OAPSOS_Lab3_Epifanova\OAPSOS_Lab3_Epifanova\bin\Debug\OAPSOS_Lab3_Epifanova.exe.config
+c:\users\user\documents\visual studio 2015\Projects\OAPSOS_Lab3_Epifanova\OAPSOS_Lab3_Epifanova\bin\Debug\OAPSOS_Lab3_Epifanova.exe
+c:\users\user\documents\visual studio 2015\Projects\OAPSOS_Lab3_Epifanova\OAPSOS_Lab3_Epifanova\bin\Debug\OAPSOS_Lab3_Epifanova.pdb
+c:\users\user\documents\visual studio 2015\Projects\OAPSOS_Lab3_Epifanova\OAPSOS_Lab3_Epifanova\obj\Debug\OAPSOS_Lab3_Epifanova.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\OAPSOS_Lab3_Epifanova\OAPSOS_Lab3_Epifanova\obj\Debug\OAPSOS_Lab3_Epifanova.MainForm.resources
+c:\users\user\documents\visual studio 2015\Projects\OAPSOS_Lab3_Epifanova\OAPSOS_Lab3_Epifanova\obj\Debug\OAPSOS_Lab3_Epifanova.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\OAPSOS_Lab3_Epifanova\OAPSOS_Lab3_Epifanova\obj\Debug\OAPSOS_Lab3_Epifanova.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\OAPSOS_Lab3_Epifanova\OAPSOS_Lab3_Epifanova\obj\Debug\OAPSOS_Lab3_Epifanova.exe
+c:\users\user\documents\visual studio 2015\Projects\OAPSOS_Lab3_Epifanova\OAPSOS_Lab3_Epifanova\obj\Debug\OAPSOS_Lab3_Epifanova.pdb
+D:\Study\3 курс\ОАПСОС\OAPSOS_Lab3_Epifanova\OAPSOS_Lab3_Epifanova\bin\Debug\OAPSOS_Lab3_Epifanova.exe.config
+D:\Study\3 курс\ОАПСОС\OAPSOS_Lab3_Epifanova\OAPSOS_Lab3_Epifanova\obj\Debug\OAPSOS_Lab3_Epifanova.exe
+D:\Study\3 курс\ОАПСОС\OAPSOS_Lab3_Epifanova\OAPSOS_Lab3_Epifanova\obj\Debug\OAPSOS_Lab3_Epifanova.pdb
+D:\Study\3 курс\ОАПСОС\OAPSOS_Lab3_Epifanova\OAPSOS_Lab3_Epifanova\bin\Debug\OAPSOS_Lab3_Epifanova.exe
+D:\Study\3 курс\ОАПСОС\OAPSOS_Lab3_Epifanova\OAPSOS_Lab3_Epifanova\bin\Debug\OAPSOS_Lab3_Epifanova.pdb
+D:\Study\3 курс\ОАПСОС\OAPSOS_Lab3_Epifanova\OAPSOS_Lab3_Epifanova\obj\Debug\OAPSOS_Lab3_Epifanova.csprojResolveAssemblyReference.cache
+D:\Study\3 курс\ОАПСОС\OAPSOS_Lab3_Epifanova\OAPSOS_Lab3_Epifanova\obj\Debug\OAPSOS_Lab3_Epifanova.MainForm.resources
+D:\Study\3 курс\ОАПСОС\OAPSOS_Lab3_Epifanova\OAPSOS_Lab3_Epifanova\obj\Debug\OAPSOS_Lab3_Epifanova.Properties.Resources.resources
+D:\Study\3 курс\ОАПСОС\OAPSOS_Lab3_Epifanova\OAPSOS_Lab3_Epifanova\obj\Debug\OAPSOS_Lab3_Epifanova.csproj.GenerateResource.Cache
+D:\Study\3 курс\ОАПСОС\OAPSOS_Lab3_Epifanova\OAPSOS_Lab3_Epifanova\obj\Debug\OAPSOS_Lab3_Epifanova.Form2.resources
